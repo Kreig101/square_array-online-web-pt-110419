@@ -5,5 +5,5 @@ def square_array(array)
  array.each do |numbers|
  squared << numbers ** 2 
 end
-return squared
+ squared
 end
